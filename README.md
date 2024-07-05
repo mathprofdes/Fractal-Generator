@@ -9,3 +9,28 @@ The software is being distributed as an executable jar file. In most cases you c
 `java -jar FractalGenerator.jar`
 
 The software was created using the older Java Swing API, so the appearance is a little retro. This software has been tested on Windows 10 and 11, Linux Mint 21, and MacOS Mojave.
+
+**Program Features**
+
+- General formula dynamical systems.
+- Complex plane systems and real plane parametric systems.
+- Escape and convergence mode bailouts.
+- Inverse complex plane graphing.
+- All options are user editable.
+- History window.
+- Image resizing option to various set sizes as well as custom sizes.
+- Multi-Threading options for more efficient use of the CPU.
+- Fractal information saving and loading.
+- Mouse options for zooming and recentering.
+- Image saving and copying.
+- Display image auto-resizing.
+- Animation Image Sequence Creator.
+- Color scheme options for both inside color schemes and outside color schemes.
+- Color data storage options.
+- Independent editable color palettes.
+
+---
+
+**Third Party Software Used**
+
+- Oracle Help for Java: (Oracle): The help system.
