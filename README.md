@@ -30,7 +30,7 @@ The software was created using the older Java Swing API, so the appearance is a 
 - Independent editable color palettes.
 
 ---
-**Screen Shots**
+**Screenshots**
 
 ![Screenshot of program.](/Version_2_3_1/FGV2_1.png)
 
