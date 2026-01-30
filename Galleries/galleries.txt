@@ -1,0 +1,5 @@
+Gallery #1: Mandelbrot Set using Stripe Algorithms
+Gallery #2: Mandelbrot Set using Various Algorithms
+Gallery #3: z = z^3 + c using Various Algorithms
+Gallery #4: Newton's Method and Trigonometric Systems
+Gallery #5: More Newton's Method and Trigonometric Systems
